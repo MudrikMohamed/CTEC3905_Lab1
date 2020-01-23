@@ -1,0 +1,15 @@
+body { background: #f99; }
+
+
+
+.banner {
+	color: #FFFFFF;
+	background: #000000;
+	margin-bottom:50px;
+	background: url("../img/top.jpg") 0 -140px;
+    background-repeat: no-repeat;
+}
+
+.banner h1 {
+	margin-bottom: 30px;
+}
